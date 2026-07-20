@@ -50,6 +50,3 @@ with col3:
         use_container_width=True
     )
 
-# Optional: Add a footer
-st.markdown("---")
-st.caption("Maintained by [Your Name/Team] • Control Tower v1.0")
